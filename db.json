@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "49df",
+      "title": "ToDoList",
+      "body": "This is a simple Todo list app in react that accepts a new item and adds it to the list. The app then gives you an option of marking the item as complete, deleting the item, editing the item and selecting the date to do the item",
+      "author": "Faith"
+    },
+    {
+      "id": "5c56",
+      "title": "readind",
+      "body": "respond",
+      "author": "Faith"
+    },
+    {
+      "id": "bc8d",
+      "title": "React",
+      "body": "React is a JavaScript library used for building user interfaces",
+      "author": "Faith"
+    }
+  ]
+}
